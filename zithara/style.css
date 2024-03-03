@@ -1,0 +1,14 @@
+
+
+
+thead th span.icon-arrow {
+    display: inline-block;
+    width: 1.3rem;
+    height: 1.3rem;
+    border: 1.4px solid rebeccapurple;
+    border-radius: 50%;
+    text-align:center;
+    font-size: 1rem;
+    margin-left: .5rem;
+
+}
